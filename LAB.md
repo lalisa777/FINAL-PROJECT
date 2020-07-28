@@ -9,10 +9,4 @@ The first problem to be solved is to establish communication between Arduino and
 >
 >  2. The serial port monitor needs to be turned on and off every time then the signal can be transmitted successfully to unity. 👈❓
 
-<iframe 
-    width="800" 
-    height="450" 
-    src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/example.gif)  
