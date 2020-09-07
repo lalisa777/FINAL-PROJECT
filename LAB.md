@@ -11,6 +11,15 @@ The first problem to be solved is to establish communication between Arduino and
 
 ![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/IMG_5524.gif)  
 
-### Unity setup
+### Unity Setup
+Setup the virtual world -- UI reference
+
+## Scene1 -- FEAR
+
+> 1. Modeling -- blender (An entire box or two walls❓)
+
+> 2. Lighting effects and camera angles
+
+> 3. Box floating
 
 
