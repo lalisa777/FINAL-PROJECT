@@ -16,14 +16,14 @@ Setup the virtual world -- UI reference
 
 #### Scene1 -- FEAR
 
-> 1. Modeling -- blender (An entire box or two walls❓)
+ 1. Modeling -- blender (An entire box or two walls❓)
 
-> 2. Lighting effects and camera angles
+ 2. Lighting effects and camera angles
 
-> 3. Box floating
+ 3. Box floating
 
 ```html
-  float radian = 0; 
+        float radian = 0; 
 	float perRadian = 0.03f; 
 	float radius = 0.2f; 
 	Vector3 oldPos; 
@@ -36,10 +36,11 @@ Setup the virtual world -- UI reference
     void Update()
     {
         radian += perRadian; 
-		float dy = Mathf.Cos(radian) * radius; 
-		transform.position = oldPos + new Vector3 (0, dy, 0);
+	float dy = Mathf.Cos(radian) * radius; 
+	transform.position = oldPos + new Vector3 (0, dy, 0);
 
     }
 ```
+*👆 My track: First, record the position of the object, and then change the position through update. How to change it? Change the Y coordinate of an object with a cosine function.*
 
 
