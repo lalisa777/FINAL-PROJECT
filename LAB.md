@@ -22,4 +22,24 @@ Setup the virtual world -- UI reference
 
 > 3. Box floating
 
+```html
+  float radian = 0; 
+	float perRadian = 0.03f; 
+	float radius = 0.2f; 
+	Vector3 oldPos; 
+    
+    void Start()
+    {
+        oldPos = transform.position;
+    }
+
+    void Update()
+    {
+        radian += perRadian; 
+		float dy = Mathf.Cos(radian) * radius; 
+		transform.position = oldPos + new Vector3 (0, dy, 0);
+
+    }
+```
+
 
