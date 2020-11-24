@@ -92,6 +92,31 @@ Still use shader graph to complete
 
 #### Scene3 -- SADNESS
 1.Source of inspiration:
+
 ![img](https://i.pinimg.com/474x/32/0c/c3/320cc3e498a8728cc1059911c4509dff.jpg)  
  ![img](https://i.pinimg.com/474x/8b/c1/5d/8bc15d5fdda84b2388248a9620c1360d.jpg)  
  ![img](https://i.pinimg.com/474x/16/69/8e/16698e06235ac7d250d5e67d1b314403.jpg)  
+ 
+ 
+ #### conclusion
+ 
+ This piece is based on Donald Arthur Norman’s theory – ‘emotional design’ to create emotions in an virtual environment. Analyze and study the three levels of visceral, behavioral and reflectional respectively, and try to involve players’ internal experience into the design of scenes and interactions in scenes in order to stimulate and evoke players’ emotional experience. 
+
+The following is an analysis of the three emotions mentioned above (joy, sadness, fear) based on the three levels of emotional design for game design.
+
+-	Visceral Level
+At the visceral level, the factors that affect emotion and behavior are people's reactions to the visual objects in the game. For this game, two branches of psychology are emphatically described here, which study the effects of shape and color on people's visual perception. In short, each color and shape tends to be perceived with its meaning, so when players view a visual object, the brain will receive a certain message and reacts according to what they see.
+
+Color is a very significant factor in design. The research provided by Colorcom showed that people could make subconscious judgments about products in only 90 seconds, and 62% to 90% of evaluations are based on color only. The shape is also a reasonable basis for analyzing all visual objects. People may not always notice what figures and shapes surround them still they have a significant impact on their consciousness and behavior. 
+
+Pic 5: Visual effects of three scenes
+For the emotion of joy, orange and green are used in the choice of colors, which represent the sunlight and life. The shape is spherical because this kind of curve means softness and relaxation, which gives people a feeling of fullness and strength in emotion. Blue is selected for the emotion of sadness. In the scene, there are various, but regular straight lines to create a sense of balance, stability, and continuity. The emotion of fear is expressed in two contrasting colors, which are red and green. Red makes people feel dangerous. It is outstanding against the contrast of green. The background uses repeated cubes to create a sense of loss, and some irregular and angular geometric figures are in the front to give people a sense of danger.
+
+-	Behavioral Level
+The behavioral level is aimed at the interaction design in the game, and emotions are expressed through the flow of interaction. The way of interaction during the game and the feedback that the game gives to the player affect the player's feeling.
+
+For the emotion of joy, the entire interaction flow describes that the feeling of joy is relaxed and pleasant, and joy is hugely influential. Therefore, the overall speed of interaction is brisk. Clicking on the surrounding balls can trigger the balls to fly quickly, giving the players instant and intense feedback and creating a positive emotion. At the same time, the small flying ball may hit the big ball, causing the big ball to spin quickly, which is to express that everyone is easily infected by happy emotion.
+
+Sadness and joy are opposite interaction flows. The overall rhythm is slow. The way of interaction is slower dragging instead of fast clicking. Dragging the lines makes the lines rotate slowly, showing different light and shadow effects.
+
+The generation of fear is always accompanied by unknown and unfamiliar. Therefore, in the flow, the feedback after the interaction must give the player a sense of unknown. The changes between the screens cannot be continuous, which provides an uncomfortable feeling to players. In this scene, the player can cause intense deformation of geometric objects by clicking. The speed of deformation will increase as the number of clicks increases until the object explodes.
