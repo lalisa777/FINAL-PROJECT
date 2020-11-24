@@ -48,4 +48,22 @@ pinterest
 ```
 *👆 My track: First, record the position of the object, and then change the position through update. How to change it? Change the Y coordinate of an object with a cosine function.*
 
+ 4. Material —— Shader
+ 
+ Want to achieve a drastic deformation effect
+ Ordinary textures are difficult to achieve the effect I want, you can try to use unity shader graph
+ [This is tutorial link](https://www.youtube.com/watch?v=kr_tdKCT2Xs)
+ 
+ 5. Interaction
+licking will accelerate the interactive effect of the deformation, then make the variable in the shader graph public, and then control that variable through the effect of the click.
+ [This is tutorial link](https://www.youtube.com/watch?v=EANtTI6BCxk)
+ 
+ 
+ 6. color and effect
+ Finally adjusted the overall lighting and colors to highlight the atmosphere
 
+#### Scene2 -- JOY
+
+1. Source of inspiration: what kind of elements can express happiness
+
+2.
