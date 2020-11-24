@@ -72,3 +72,26 @@ licking will accelerate the interactive effect of the deformation, then make the
  ![img](https://i.pinimg.com/474x/25/47/e5/2547e581fe50abe052201dbf22810a91.jpg)  
  ![img](https://i.pinimg.com/474x/e4/7a/7a/e47a7a51b1df8cab7f837324a4bde0cd.jpg)  
  ![img](https://i.pinimg.com/474x/d3/c8/ba/d3c8ba67fbad30d527523a2d10a1bba6.jpg)  
+  keywords : full, round, soft, clear
+  
+  2. Jumping balls
+  
+  Use a small jumping ball to represent the factor of happiness. When jumping on the screen, it is best to use a soft material, which will deform when it is squeezed by collision.
+  
+  ❓ How to make the balls fall all in an instant?
+I can add a baffle above, if you click it, the baffle disappears and the ball will fall
+
+❓ soft material
+Still use shader graph to complete
+
+3. color
+
+✨Is there a need for a color change? After the interaction, the color flashes, which is a happy effect？
+
+
+
+#### Scene3 -- SADNESS
+1.Source of inspiration:
+![img](https://i.pinimg.com/474x/32/0c/c3/320cc3e498a8728cc1059911c4509dff.jpg)  
+ ![img](https://i.pinimg.com/474x/8b/c1/5d/8bc15d5fdda84b2388248a9620c1360d.jpg)  
+ ![img](https://i.pinimg.com/474x/16/69/8e/16698e06235ac7d250d5e67d1b314403.jpg)  
