@@ -138,3 +138,49 @@ Sadness and joy are opposite interaction flows. The overall rhythm is slow. The 
 
  
  This piece is based on Donald Arthur Norman’s theory – ‘emotional design’ to create emotions in an virtual environment. Analyze and study the three levels of visceral, behavioral and reflectional respectively, and try to involve players’ internal experience into the design of scenes and interactions in scenes in order to stimulate and evoke players’ emotional experience. 
+ 
+ 4. interaction
+ 
+ using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class dragtorotate : MonoBehaviour
+{
+    public float speed = 100f;
+    bool dragging = false;
+    Rigidbody rb;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+    }
+
+    void OnMouseDrag()
+    {
+        dragging = true;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if(Input.GetMouseButtonUp(0))
+        {
+            dragging = false;
+        }
+    }
+
+    void FixedUpdate()
+    {
+        if(dragging)
+        {
+            float x = Input.GetAxis("Mouse X") * speed * Time.fixedDeltaTime;
+            float y = Input.GetAxis("Mouse Y") * speed * Time.fixedDeltaTime;
+            print(x);
+
+            rb.AddTorque(Vector3.down * x);
+            rb.AddTorque(Vector3.right * y);
+        }
+    }
+}
+
