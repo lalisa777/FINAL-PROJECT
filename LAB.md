@@ -81,11 +81,19 @@ licking will accelerate the interactive effect of the deformation, then make the
   ❓ How to make the balls fall all in an instant?
 I can add a baffle above, if you click it, the baffle disappears and the ball will fall
 ![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/1511606345243_.pic.jpg)  
+![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/WeChata05953b7404f8be221b79204cbd33fc2.png)  
 
 ❗️ Doing so will greatly slow down the running speed of the game, which may be because a lot of models need to be pre-loaded at the beginning of the game (especially these models require a lot of vector operations in order to achieve soft materials)
-👆how to solve this problem？？
+
+ 👆how to solve this problem？？
 
 ✨ prefab!!
+
+❓ main character？
+![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/WeChat34b0fe9429554099896acff93eaec210.png)  
+
+I want a key word here: Happiness is infectious
+So put a main character in the middle of the scene, this main character will be affected by the falling ball
 
 
 ❓ soft material
@@ -103,7 +111,15 @@ Still use shader graph to complete
 ![img](https://i.pinimg.com/474x/32/0c/c3/320cc3e498a8728cc1059911c4509dff.jpg)  
  ![img](https://i.pinimg.com/474x/8b/c1/5d/8bc15d5fdda84b2388248a9620c1360d.jpg)  
  ![img](https://i.pinimg.com/474x/16/69/8e/16698e06235ac7d250d5e67d1b314403.jpg)  
+ keywords: mystery, lost, hopeless
  
+2. 3D modelling in blender
+
+![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/WeChata924818340cda688e87de2c6d6aec4ce.png)  
+
+3.  color and effect
+
+![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/WeChat7dbda0aead7eff1edd601825f608092c.png)  
  
  #### conclusion
  
