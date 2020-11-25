@@ -80,6 +80,13 @@ licking will accelerate the interactive effect of the deformation, then make the
   
   ❓ How to make the balls fall all in an instant?
 I can add a baffle above, if you click it, the baffle disappears and the ball will fall
+![img](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/1511606345243_.pic.jpg)  
+
+❗️ Doing so will greatly slow down the running speed of the game, which may be because a lot of models need to be pre-loaded at the beginning of the game (especially these models require a lot of vector operations in order to achieve soft materials)
+👆how to solve this problem？？
+
+✨ prefab!!
+
 
 ❓ soft material
 Still use shader graph to complete
